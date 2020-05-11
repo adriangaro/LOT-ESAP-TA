@@ -1,0 +1,4 @@
+This patch also adds support for Technology Ascendant(TA) mod, specifically the living ship sections are now reflecting the number of aux slots as in GSP and added equivalent sections for the dreadnought and titan from ADIT.
+
+Added breakthrough support for ESAP, Machine DLC, EST and PT.
+
